@@ -18,11 +18,20 @@ li {
 	padding: 0;
 }
 
+a {
+	text-decoration: none;
+	color: #333;
+}
+
 .container {}
 
 .container__creatives {}
 
-.creatives {}
+.creatives {
+    background: url(../images/creatives/bg.jpg) no-repeat top center;
+    padding: 0.01%;
+    min-height: 880px;
+}
 
 .container__fixed {
 	width: 1170px;
@@ -44,21 +53,34 @@ li {
 
 .logo {}
 
-.header__menu {}
+.header__menu {margin: 31px 0;}
 
-.menu {}
+.menu {
+    width: 852px;
+}
 
 .menu__item {}
 
-.menu__link {}
+.menu__link {
+    font-family: "Myriad Pro", sans-serif;
+    font-size: 20px;
+    color: #fff;
+}
 
-.menu__social-sprite {}
+.menu__socials {
+    margin: 0 -5px 0 8px;
+}
 
-.social-sprite {}
+.socials {
+    width: 141px;
+}
 
-.social-sprite__item {}
+.socials__item {}
 
-.social-sprite__link {}
+.socials__link {
+    color: #fff;
+    font-size: 21px;
+}
 
 .creatives__head-title {}
 
