@@ -23,16 +23,17 @@ container
 									menu__item
 										menu__link
 									menu__item
-										menu__social-sprite
-											social-sprite layout
-												social-sprite__item
-													social-sprite__link
-												social-sprite__item
-													social-sprite__link
-												social-sprite__item
-													social-sprite__link
-												social-sprite__item
-													social-sprite__link
+										menu__socials
+											socials layout
+												socials__item
+													socials__link
+												socials__item
+													socials__link
+												socials__item
+													socials__link
+												socials__item
+													socials__link	
+												
 				creatives__head-title
 					head-title
 						head-title__main-title
@@ -44,36 +45,32 @@ container
 						scroll-down__scroll-title
 						scroll-down__scroll-point
 
-	container__awesome-agency
-		awesome-agency
+	container__agency
+		agency
 			container__fixed
-				awesome-agency__heading
+				agency__heading
 					heading heading_agency
-				awesome-agency__features
+				agency__features
 					features layout
-						features__features-item
-							features-item
-								features-item__ftr-img
-								features-item__ftr-heading
-								features-item__article
+						features__item
+								features__img
+								features__heading
+								features__article
 									article arcticle_features
-						features__features-item
-							features-item
-								features-item__ftr-img
-								features-item__ftr-heading
-								features-item__article
+						features__item
+								features__img
+								features__heading
+								features__article
 									article arcticle_features
-						features__features-item
-							features-item
-								features-item__ftr-img
-								features-item__ftr-heading
-								features-item__article
+						features__item
+								features__img
+								features__heading
+								features__article
 									article arcticle_features
-						features__features-item
-							features-item
-								features-item__ftr-img
-								features-item__ftr-heading
-								features-item__article
+						features__item
+								features__img
+								features__heading
+								features__article
 									article arcticle_features
 
 	container__akita
@@ -149,21 +146,21 @@ container
 				our-team__members
 					members layout
 						members__item
-							members__member-foto
-							members__member-name
-							members__member-proffession
+							members__foto
+							members__name
+							members__proffession
 						members__item
-							members__member-foto
-							members__member-name
-							members__member-proffession
+							members__foto
+							members__name
+							members__proffession
 						members__item
-							members__member-foto
-							members__member-name
-							members__member-proffession
+							members__foto
+							members__name
+							members__proffession
 						members__item
-							members__member-foto
-							members__member-name
-							members__member-proffession
+							members__foto
+							members__name
+							members__proffession
 
 	container__wed-love
 		wed-love
@@ -186,15 +183,15 @@ container
 						wed-form__send
 							send
 
+	container__map
+		map
+
 	container__footer
 		footer
-
-	container__all-rights
-		all-rights
 			container__fixed
-				all-right__rights
+				footer__rights
 					rights
-				all-right__design
+				footer__design
 					design
 
 

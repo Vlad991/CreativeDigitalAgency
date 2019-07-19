@@ -2,6 +2,10 @@ html {}
 
 body {}
 
+ul {}
+
+li {}
+
 .container {}
 
 .container__creatives {}
@@ -52,33 +56,33 @@ body {}
 
 .scroll-down {}
 
-.scroll-down__scroll-title {}
+.scroll-down__title {}
 
 .scroll-down__scroll-point {}
 
- 
+.scroll-point {}
 
-.container__awesome-agency {}
 
-.awesome-agency {}
 
-.awesome-agency__heading {}
+.container__agency {}
+
+.agency {}
+
+.agency__heading {}
 
 .heading_agency {}
 
-.awesome-agency__features {}
+.agency__features {}
 
 .features {}
 
-.features__features-item {}
+.features__item {}
 
-.features-item {}
+.features__img {}
 
-.features-item__ftr-img {}
+.features__heading {}
 
-.features-item__ftr-heading {}
-
-.features-item__article {}
+.features__article {}
 
 .article {}
 
@@ -132,7 +136,7 @@ body {}
 
 .article_sociis {}
 
- 
+
 
 .container__phone-page {}
 
@@ -142,27 +146,27 @@ body {}
 
 .akita-dog {}
 
-.akita-dog__akita-heading {}
+.akita-dog__heading {}
 
 .akita-heading {}
 
-.akita-dog__akita-article {}
+.akita-dog__article {}
 
 .article_phone-page {}
 
 .akita-dog__akita-lines {}
 
-.akita-lines {}
+.lines {}
 
-.akita-lines__item {}
+.lines__item {}
 
-.akita-lines__link {}
+.lines__link {}
 
-.phone-page__phone-img {}
+.phone-page__phone {}
 
-.phone-img {}
+.phone {}
 
- 
+
 
 .container__our-team {}
 
@@ -180,13 +184,13 @@ body {}
 
 .members__item {}
 
-.members__member-foto {}
+.members__foto {}
 
-.members__member-name {}
+.members__name {}
 
-.members__member-proffession {}
+.members__proffession {}
 
- 
+
 
 .container__wed-love {}
 
@@ -224,13 +228,13 @@ body {}
 
 .send {}
 
- 
+
 
 .container__footer {}
 
 .footer {}
 
- 
+
 
 .container__all-rights {}
 
@@ -254,4 +258,3 @@ body {}
 
 
 
-					
