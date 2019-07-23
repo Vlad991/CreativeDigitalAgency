@@ -28,7 +28,8 @@ h1, h2 {
     margin: 0;
 }
 
-.container {}
+.container {
+}
 
 .container__creatives {}
 
@@ -215,51 +216,84 @@ h1, h2 {
 
 .agency {
     background: #11749e;
-    padding: 100px 0;
-    min-height: 737px;
+    padding: 164px 0 0;
+    min-height: 574px;
 }
 
 .agency__heading {
-    width: 736px;
-    margin: 64px auto;
-    position: sticky;
+    margin-bottom: 138px;
 }
 
 .heading {
-    padding: 0 0 0 9px;
+    text-align: center;
     font-family: "GothamProMedium";
     font-size: 38px;
     color: #fff;
     letter-spacing: -0.3px;
+    position: relative;
 }
 
-.heading::before {
-    content: "W";
+.heading:after {
+    content: "";
+    display: block;
     font-family: "Roboto", sans-serif;
     font-weight: 600;
     font-size: 247px;
     color: #5993b2;
-    position: relative;
-    left: 0;
-    top: 0;
+    position: absolute;
+    left: 481px;
+    top: 27px;
+    line-height: 0;
 }
 
-.heading_agency {
+.heading_agency:after {
+    content: "W";
 }
 
 .agency__features {}
 
-.features {}
+.features {
+    flex-wrap: wrap;
+}
 
-.features__item {}
+.features__item {
+    width: 23%;
+}
 
-.features__img {}
+.features__img {
+    margin: 0 auto;
+    /* background: #2e85aa url(../images/awesome-agency/marker.png) no-repeat center; */
+    width: 133px;
+    height: 133px;
+    border-radius: 50%;
+}
 
-.features__heading {}
+.features__img_1 {
+    background: #2e85aa url(../images/awesome-agency/marker.png) no-repeat center;
+}
+
+.features__img_2 {background: #2e85aa url(../images/awesome-agency/marker.png) no-repeat center;}
+
+.features__img_3 {background: #2e85aa url(../images/awesome-agency/loupe.png) no-repeat center;}
+
+.features__img_4 {background: #2e85aa url(../images/awesome-agency/dialog.png) no-repeat center;}
+
+.features__heading {
+    font-family: "GothamProMedium";
+    font-size: 18px;
+    color: #fff;
+    text-align: center;
+    margin: 19px auto 29px;
+}
 
 .features__article {}
 
-.article {}
+.article {
+    font-family: "GothamProRegular";
+    font-size: 15px;
+    color: #fff;
+    line-height: 23px;
+}
 
 .arcticle_features {}
 
@@ -267,8 +301,23 @@ h1, h2 {
 
 .container__akita {}
 
-.akita {}
+.akita {
+    background: #222;
+}
 
+.akita-block {}
+
+.puzzle {
+    display: flex;
+}
+
+.akita__akita-picture {
+    width: 100%;
+}
+
+.akita-picture {
+    width: 102%;
+}
 
 
 .container__lets-blog {}

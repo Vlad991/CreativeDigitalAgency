@@ -2,27 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5542b02d-e464-4630-8a3f-97cfdc8bba6f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/gotham-cufonfonts-webfont/Gotham-Black.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/gotham-cufonfonts-webfont/Gotham-Bold.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/gotham-cufonfonts-webfont/Gotham-BookItalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/gotham-cufonfonts-webfont/Gotham-Light.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/gotham-cufonfonts-webfont/Gotham-Thin.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/gotham-cufonfonts-webfont/Gotham-ThinItalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/gotham-cufonfonts-webfont/Gotham-UltraItalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/gotham-cufonfonts-webfont/Gotham-XLight.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/gotham-cufonfonts-webfont/Gotham-XLightItalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/gotham-cufonfonts-webfont/GothamBold.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/gotham-cufonfonts-webfont/GothamBoldItalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/gotham-cufonfonts-webfont/GothamBook.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/gotham-cufonfonts-webfont/GothamBookItalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/gotham-cufonfonts-webfont/GothamLight.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/gotham-cufonfonts-webfont/GothamLightItalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/gotham-cufonfonts-webfont/GothamMedium.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/gotham-cufonfonts-webfont/GothamMediumItalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/gotham-cufonfonts-webfont/GothamMedium_1.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/gotham-cufonfonts-webfont/example.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/gotham-cufonfonts-webfont/style.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -35,15 +16,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+            <state relative-caret-position="334">
+              <caret line="133" column="22" lean-forward="true" selection-start-line="133" selection-start-column="22" selection-end-line="133" selection-end-column="22" />
               <folding>
-                <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -55,11 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="244" column="1" lean-forward="true" selection-start-line="244" selection-start-column="1" selection-end-line="244" selection-end-column="1" />
+            <state relative-caret-position="351">
+              <caret line="314" column="4" selection-start-line="314" selection-start-column="4" selection-end-line="314" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -109,6 +89,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -124,13 +105,28 @@
             <path>
               <item name="creative_digital_agency" type="b2602c69:ProjectViewProjectNode" />
               <item name="creative_digital_agency" type="462c0819:PsiDirectoryNode" />
+              <item name="fonts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creative_digital_agency" type="b2602c69:ProjectViewProjectNode" />
+              <item name="creative_digital_agency" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creative_digital_agency" type="b2602c69:ProjectViewProjectNode" />
+              <item name="creative_digital_agency" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="awesome-agency" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creative_digital_agency" type="b2602c69:ProjectViewProjectNode" />
+              <item name="creative_digital_agency" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -179,25 +175,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563782465024</updated>
-      <workItem from="1563782466492" duration="8576000" />
+      <workItem from="1563782466492" duration="8712000" />
+      <workItem from="1563823444425" duration="8000" />
+      <workItem from="1563888029800" duration="4811000" />
     </task>
+    <task id="LOCAL-00001" summary="Add creatives header and agency heading">
+      <created>1563793065891</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563793065892</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8576000" />
+    <option name="totallyTimeSpent" value="13531000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="825" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14164905" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="GraphQL" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -205,6 +206,11 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="GraphQL" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -213,17 +219,17 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add creatives header and agency heading" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add creatives header and agency heading" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-7" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fonts/gotham-cufonfonts-webfont/example.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/fonts/gotham-cufonfonts-webfont/example.html" />
     <entry file="file://$PROJECT_DIR$/css/fonts.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -231,27 +237,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fonts/gotham-cufonfonts-webfont/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="244" column="1" lean-forward="true" selection-start-line="244" selection-start-column="1" selection-end-line="244" selection-end-column="1" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/fonts/gotham-cufonfonts-webfont/style.css" />
+    <entry file="file://$PROJECT_DIR$/images/awesome-agency/marker.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        <state relative-caret-position="334">
+          <caret line="133" column="22" lean-forward="true" selection-start-line="133" selection-start-column="22" selection-end-line="133" selection-end-column="22" />
           <folding>
-            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -259,6 +254,13 @@
             <element signature="n#div#7;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#8;n#div#0;n#body#0;n#html#0;n#!!top" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="314" column="4" selection-start-line="314" selection-start-column="4" selection-end-line="314" selection-end-column="4" />
         </state>
       </provider>
     </entry>
